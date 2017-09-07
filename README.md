@@ -1,4 +1,4 @@
-# online_brain_intensive . 
+# online_brain_intensive
 *Code associated with participation in the Womanium Online Brain Intensive 2017.*   
 
 Much of the code is collected from other freely available sources. Below is a list of sources, as well as sites that were helpful for reference during the brain hack.  
